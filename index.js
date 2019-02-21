@@ -1,4 +1,4 @@
 function shout(string){
-  document.log("Hello")
+  console.log("Hello")
 }
 shout("hello")
