@@ -1,5 +1,5 @@
 function shout(string){
-  toUpperCase(string)
+  ${string}.toUpperCase()
   return(string)
 }
 shout("hello")
